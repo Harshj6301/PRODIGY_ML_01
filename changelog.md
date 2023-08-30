@@ -1,1 +1,2 @@
+- Aug 30 2023: Added main file (.ipynb), version 2
 - Aug 30 2023: Created repo, added README.md, added changelog.txt
