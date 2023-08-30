@@ -12,4 +12,4 @@
 
 - The performance of the models is evaluated using metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), R-squared (R2), and Mean Absolute Percentage Error (MAPE). Visualizations are also provided to compare actual and predicted values.
 
-Contributions to this project are welcome. You can contribute by opening an issue or creating a pull request with your proposed changes.
+
